@@ -52,9 +52,6 @@ This project demonstrates:
 -   Smooth UI animations
 -   Modern frontend interaction design
 
-## 📸 Preview
-
-Add screenshots or a GIF here to showcase the animation.
 
 ## 💡 Future Improvements
 
