@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # 🎴 3D Card Hover Effect
 
 A modern **3D Card Hover Effect** built with **HTML, CSS, and
